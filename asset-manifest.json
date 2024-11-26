@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/postres/static/css/main.6ff4769c.css",
+    "main.css": "/postres/static/css/main.76de6479.css",
     "main.js": "/postres/static/js/main.cec33bdd.js",
     "static/media/carousel1.jpg": "/postres/static/media/carousel1.5bdc2812da4820dca017.jpg",
     "static/media/Vision1.jpg": "/postres/static/media/Vision1.910983214b7834bf20b4.jpg",
@@ -14,15 +14,16 @@
     "static/media/Nosotros1.jpg": "/postres/static/media/Nosotros1.c6336aa959d4ccb192a1.jpg",
     "static/media/Logo.png": "/postres/static/media/Logo.e23e08d8bf5e5a0f6ac5.png",
     "static/media/FondoLogoBar.jpeg": "/postres/static/media/FondoLogoBar.fb311b30c606e8cb0d79.jpeg",
+    "static/media/FondoLogo.jpeg": "/postres/static/media/FondoLogo.06f364925292c5a6a262.jpeg",
     "static/media/Postre2.jpg": "/postres/static/media/Postre2.89d60de909ffdabed968.jpg",
     "static/media/Postre3.jpg": "/postres/static/media/Postre3.12deeca56598cc20f3b4.jpg",
     "static/media/Postre1.jpg": "/postres/static/media/Postre1.738df256a0d6fd674a29.jpg",
     "index.html": "/postres/index.html",
-    "main.6ff4769c.css.map": "/postres/static/css/main.6ff4769c.css.map",
+    "main.76de6479.css.map": "/postres/static/css/main.76de6479.css.map",
     "main.cec33bdd.js.map": "/postres/static/js/main.cec33bdd.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ff4769c.css",
+    "static/css/main.76de6479.css",
     "static/js/main.cec33bdd.js"
   ]
 }
