@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/postres/static/css/main.e2181970.css",
-    "main.js": "/postres/static/js/main.d0c59c71.js",
+    "main.js": "/postres/static/js/main.b595673e.js",
     "static/media/carousel1.jpg": "/postres/static/media/carousel1.5bdc2812da4820dca017.jpg",
     "static/media/Vision1.jpg": "/postres/static/media/Vision1.910983214b7834bf20b4.jpg",
     "static/media/carousel6.jpg": "/postres/static/media/carousel6.a195008992195b217de3.jpg",
@@ -10,20 +10,24 @@
     "static/media/carousel7.jpg": "/postres/static/media/carousel7.cf0d8500beb467e2ba17.jpg",
     "static/media/carousel4.jpg": "/postres/static/media/carousel4.d85527e5154dda84e0a1.jpg",
     "static/media/carousel5.jpg": "/postres/static/media/carousel5.752ad57283086a7dd26d.jpg",
+    "static/media/P6.jpeg": "/postres/static/media/P6.145fb8e580304c448e40.jpeg",
+    "static/media/P4.jpeg": "/postres/static/media/P4.c6f8470e40dac851e8ab.jpeg",
     "static/media/Mision1.jpg": "/postres/static/media/Mision1.5dbc585416260fa2827e.jpg",
+    "static/media/P7.jpeg": "/postres/static/media/P7.1254f9a8df8324f81737.jpeg",
     "static/media/Nosotros1.jpg": "/postres/static/media/Nosotros1.c6336aa959d4ccb192a1.jpg",
+    "static/media/P5.jpeg": "/postres/static/media/P5.d8536224a246c83dd7c4.jpeg",
+    "static/media/P8.jpeg": "/postres/static/media/P8.ad531d26473750d93cca.jpeg",
     "static/media/Logo.png": "/postres/static/media/Logo.e23e08d8bf5e5a0f6ac5.png",
-    "static/media/P2.jpeg": "/postres/static/media/P2.0d98ef96b649a086be03.jpeg",
     "static/media/FondoLogoBar.jpeg": "/postres/static/media/FondoLogoBar.fb311b30c606e8cb0d79.jpeg",
     "static/media/P3.jpeg": "/postres/static/media/P3.216c3b2bf7319146e460.jpeg",
     "static/media/P1.jpeg": "/postres/static/media/P1.f10b029e9191b4dac6b2.jpeg",
     "static/media/FondoLogo.jpeg": "/postres/static/media/FondoLogo.06f364925292c5a6a262.jpeg",
     "index.html": "/postres/index.html",
     "main.e2181970.css.map": "/postres/static/css/main.e2181970.css.map",
-    "main.d0c59c71.js.map": "/postres/static/js/main.d0c59c71.js.map"
+    "main.b595673e.js.map": "/postres/static/js/main.b595673e.js.map"
   },
   "entrypoints": [
     "static/css/main.e2181970.css",
-    "static/js/main.d0c59c71.js"
+    "static/js/main.b595673e.js"
   ]
 }
