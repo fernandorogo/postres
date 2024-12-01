@@ -18,7 +18,7 @@ const Mision = () => {
         <div className='row container-flex'>
           <div className='col d-flex justify-content-center align-items-center' style={{ height: '100vh' }}>
             <p className='text-center'>
-            En Postres Mágicos Dejave, nuestra misión es crear postres artesanales de alta calidad, utilizando ingredientes frescos y naturales para ofrecer una experiencia única que combine sabor, creatividad y cariño. Nos apasiona endulzar momentos especiales, brindando productos deliciosos que transmiten alegría y un toque personal. Nos destacamos por ofrecer atención personalizada, asegurando que cada pedido sea único. En Postres Mágicos Dejave, no solo horneamos postres, sino momentos memorables.
+            En Postres Mágicos Dajave, nuestra misión es crear postres artesanales de alta calidad, utilizando ingredientes frescos y naturales para ofrecer una experiencia única que combine sabor, creatividad y cariño. Nos apasiona endulzar momentos especiales, brindando productos deliciosos que transmiten alegría y un toque personal. Nos destacamos por ofrecer atención personalizada, asegurando que cada pedido sea único. En Postres Mágicos Dejave, no solo horneamos postres, sino momentos memorables.
             </p>
           </div>
           <div className='col'>

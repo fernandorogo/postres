@@ -18,7 +18,7 @@ const Vision = () => {
         <div className='row container-flex'>
           <div className='col d-flex justify-content-center align-items-center' style={{ height: '100vh' }}>
             <p className='text-center'>
-            La visión de Postres Mágicos Dejave es ser la marca líder en postres artesanales de calidad, reconocida por su originalidad, frescura y experiencia única. Queremos ser la opción preferida para quienes buscan una experiencia dulce y personalizada, haciendo cada celebración inolvidable. Nos comprometemos a innovar constantemente, utilizar ingredientes naturales y locales, y brindar atención detallada, con el objetivo de expandir nuestra presencia y crear una comunidad apasionada por nuestros postres.
+            La visión de Postres Mágicos Dajave es ser la marca líder en postres artesanales de calidad, reconocida por su originalidad, frescura y experiencia única. Queremos ser la opción preferida para quienes buscan una experiencia dulce y personalizada, haciendo cada celebración inolvidable. Nos comprometemos a innovar constantemente, utilizar ingredientes naturales y locales, y brindar atención detallada, con el objetivo de expandir nuestra presencia y crear una comunidad apasionada por nuestros postres.
             </p>
           </div>
           <div className='col'>
