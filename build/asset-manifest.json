@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.766886d1.css",
-    "main.js": "/static/js/main.b68d4eb6.js",
-    "static/media/carousel1.jpg": "/static/media/carousel1.5bdc2812da4820dca017.jpg",
-    "static/media/Vision1.jpg": "/static/media/Vision1.910983214b7834bf20b4.jpg",
-    "static/media/carousel6.jpg": "/static/media/carousel6.a195008992195b217de3.jpg",
-    "static/media/carousel3.jpg": "/static/media/carousel3.a53862c427db9175e1ac.jpg",
-    "static/media/carousel2.jpg": "/static/media/carousel2.fc91db93fbe1d3800853.jpg",
-    "static/media/carousel7.jpg": "/static/media/carousel7.cf0d8500beb467e2ba17.jpg",
-    "static/media/carousel4.jpg": "/static/media/carousel4.d85527e5154dda84e0a1.jpg",
-    "static/media/carousel5.jpg": "/static/media/carousel5.752ad57283086a7dd26d.jpg",
-    "static/media/Mision1.jpg": "/static/media/Mision1.5dbc585416260fa2827e.jpg",
-    "static/media/Nosotros1.jpg": "/static/media/Nosotros1.c6336aa959d4ccb192a1.jpg",
-    "static/media/Logo.png": "/static/media/Logo.e23e08d8bf5e5a0f6ac5.png",
-    "static/media/FondoLogoBar.jpeg": "/static/media/FondoLogoBar.fb311b30c606e8cb0d79.jpeg",
-    "static/media/FondoLogo.jpeg": "/static/media/FondoLogo.06f364925292c5a6a262.jpeg",
-    "static/media/Postre2.jpg": "/static/media/Postre2.89d60de909ffdabed968.jpg",
-    "static/media/Postre3.jpg": "/static/media/Postre3.12deeca56598cc20f3b4.jpg",
-    "static/media/Postre1.jpg": "/static/media/Postre1.738df256a0d6fd674a29.jpg",
-    "index.html": "/index.html",
-    "main.766886d1.css.map": "/static/css/main.766886d1.css.map",
-    "main.b68d4eb6.js.map": "/static/js/main.b68d4eb6.js.map"
+    "main.css": "/postres/static/css/main.e2181970.css",
+    "main.js": "/postres/static/js/main.d0c59c71.js",
+    "static/media/carousel1.jpg": "/postres/static/media/carousel1.5bdc2812da4820dca017.jpg",
+    "static/media/Vision1.jpg": "/postres/static/media/Vision1.910983214b7834bf20b4.jpg",
+    "static/media/carousel6.jpg": "/postres/static/media/carousel6.a195008992195b217de3.jpg",
+    "static/media/carousel3.jpg": "/postres/static/media/carousel3.a53862c427db9175e1ac.jpg",
+    "static/media/carousel2.jpg": "/postres/static/media/carousel2.fc91db93fbe1d3800853.jpg",
+    "static/media/carousel7.jpg": "/postres/static/media/carousel7.cf0d8500beb467e2ba17.jpg",
+    "static/media/carousel4.jpg": "/postres/static/media/carousel4.d85527e5154dda84e0a1.jpg",
+    "static/media/carousel5.jpg": "/postres/static/media/carousel5.752ad57283086a7dd26d.jpg",
+    "static/media/Mision1.jpg": "/postres/static/media/Mision1.5dbc585416260fa2827e.jpg",
+    "static/media/Nosotros1.jpg": "/postres/static/media/Nosotros1.c6336aa959d4ccb192a1.jpg",
+    "static/media/Logo.png": "/postres/static/media/Logo.e23e08d8bf5e5a0f6ac5.png",
+    "static/media/P2.jpeg": "/postres/static/media/P2.0d98ef96b649a086be03.jpeg",
+    "static/media/FondoLogoBar.jpeg": "/postres/static/media/FondoLogoBar.fb311b30c606e8cb0d79.jpeg",
+    "static/media/P3.jpeg": "/postres/static/media/P3.216c3b2bf7319146e460.jpeg",
+    "static/media/P1.jpeg": "/postres/static/media/P1.f10b029e9191b4dac6b2.jpeg",
+    "static/media/FondoLogo.jpeg": "/postres/static/media/FondoLogo.06f364925292c5a6a262.jpeg",
+    "index.html": "/postres/index.html",
+    "main.e2181970.css.map": "/postres/static/css/main.e2181970.css.map",
+    "main.d0c59c71.js.map": "/postres/static/js/main.d0c59c71.js.map"
   },
   "entrypoints": [
-    "static/css/main.766886d1.css",
-    "static/js/main.b68d4eb6.js"
+    "static/css/main.e2181970.css",
+    "static/js/main.d0c59c71.js"
   ]
 }

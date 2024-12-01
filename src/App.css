@@ -39,6 +39,21 @@
 
 .logo-bar {
   background-image: url('./Image/FondoLogoBar.jpeg'); /* Ruta de la imagen */
+  background-size: contain; /* Ajusta la imagen al tamaño del contenedor manteniendo su proporción */
+  background-position: center; /* Centra la imagen */
+  background-repeat: no-repeat; /* Evita repeticiones */
+  width: 100%; /* Ancho completo */
+  height: auto; /* Permite que la altura se ajuste a la imagen */
+  display: flex; /* Flexbox para centrar contenido */
+  justify-content: center; /* Centrado horizontal */
+  align-items: center; /* Centrado vertical */
+  box-sizing: border-box; /* Asegura que padding y borde no afecten el tamaño total */
+  padding: 20px; /* Espaciado interno opcional */
+  min-height: 300px; /* Altura mínima para asegurar visibilidad */
+}
+
+.logo-fondo-bar {
+  background-image: url('./Image/FondoLogoBar.jpeg'); /* Ruta de la imagen */
   background-size: cover; /* Ajusta la imagen al tamaño del contenedor */
   background-position: center; /* Centra la imagen */
   width: 100%; /* Ancho completo */
@@ -49,12 +64,65 @@
 }
 
 
+/* Responsividad adicional */
+@media (max-width: 768px) {
+  .logo-bar {
+    background-size: cover; /* Cambia a "cover" en pantallas más pequeñas */
+    min-height: 250px; /* Altura mínima ajustada */
+  }
+}
+
+@media (max-width: 480px) {
+  .logo-bar {
+    background-size: cover; /* Asegura que cubra el área visible */
+    min-height: 200px; /* Menor altura mínima */
+    padding: 10px; /* Reduce el padding en pantallas pequeñas */
+  }
+}
+
+
 .logo-intro {
   background-image: url('./Image/FondoLogo.jpeg'); /* Ruta a tu imagen de fondo */
-  background-size: cover;  /* Hace que la imagen cubra todo el fondo */
+  background-size: cover;  /* La imagen cubre todo el fondo */
   background-position: center; /* Centra la imagen */
-  width: 100%; /* Asegura que el fondo ocupe todo el ancho */
-  height: 100vh; /* Asegura que el fondo ocupe toda la altura de la pantalla */
+  background-repeat: no-repeat; /* Evita que la imagen se repita */
+  width: 100vw; /* Ocupa todo el ancho de la ventana */
+  height: 100vh; /* Ocupa toda la altura de la ventana */
+  display: flex; /* Utiliza flexbox para centrar contenido */
+  justify-content: center; /* Centra horizontalmente */
+  align-items: center; /* Centra verticalmente */
+  position: fixed; /* Fija el contenedor a la ventana */
+  top: 0; /* Asegura que comience desde la parte superior */
+  left: 0; /* Asegura que comience desde la izquierda */
+  overflow: hidden; /* Deshabilita el desplazamiento */
+  touch-action: none; /* Evita el movimiento en dispositivos táctiles */
+  box-sizing: border-box; /* Asegura que padding y borde no afecten el tamaño */
+}
+
+/* Ajuste para los elementos internos */
+.logo-intro a {
+  text-decoration: none; /* Elimina el subrayado de los enlaces */
+}
+
+.logo-intro img, .logo-intro div {
+  max-width: 100%; /* Asegura que el contenido no exceda el tamaño del contenedor */
+  max-height: 100%;
+   /* Ajusta el contenido manteniendo su proporción */
+}
+
+/* Estilos responsivos */
+@media (max-width: 768px) {
+  .logo-intro img, .logo-intro div {
+    max-width: 100%;
+    max-height: 100%;
+  }
+}
+
+@media (max-width: 480px) {
+  .logo-intro img, .logo-intro div {
+    max-width: 100%;
+    max-height: 100%;
+  }
 }
 
 .navbar .navbar-nav .nav-link {
@@ -112,3 +180,6 @@
   color: white; /* Color de texto si lo deseas */
   line-height: 1.6; /* Ajusta el interlineado para mayor legibilidad */
 }
+
+
+
