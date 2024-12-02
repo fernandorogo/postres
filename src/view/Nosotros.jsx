@@ -6,7 +6,7 @@ import Navbar from '../components/Navbar'
 const Nosotros = () => {
   return (
     <div>
-      <div className="logo-bar d-flex justify-content-center align-items-start logo-bar">
+      <div className="logo-fondo-bar d-flex justify-content-center align-items-start logo-bar">
         <img src={LogoBar} alt="" className="img-fluid" style={{ width: '200px', height: '200px' }} />
       </div>
 
