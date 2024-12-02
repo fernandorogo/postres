@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/postres/static/css/main.e2181970.css",
-    "main.js": "/postres/static/js/main.b595673e.js",
+    "main.js": "/postres/static/js/main.698ee20d.js",
     "static/media/carousel1.jpg": "/postres/static/media/carousel1.5bdc2812da4820dca017.jpg",
     "static/media/Vision1.jpg": "/postres/static/media/Vision1.910983214b7834bf20b4.jpg",
     "static/media/carousel6.jpg": "/postres/static/media/carousel6.a195008992195b217de3.jpg",
@@ -24,10 +24,10 @@
     "static/media/FondoLogo.jpeg": "/postres/static/media/FondoLogo.06f364925292c5a6a262.jpeg",
     "index.html": "/postres/index.html",
     "main.e2181970.css.map": "/postres/static/css/main.e2181970.css.map",
-    "main.b595673e.js.map": "/postres/static/js/main.b595673e.js.map"
+    "main.698ee20d.js.map": "/postres/static/js/main.698ee20d.js.map"
   },
   "entrypoints": [
     "static/css/main.e2181970.css",
-    "static/js/main.b595673e.js"
+    "static/js/main.698ee20d.js"
   ]
 }
